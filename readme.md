@@ -2,6 +2,10 @@
 
 Javascript simulation of [Conway's Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
+## Demo
+
+See running example at [this pen](http://codepen.io/jakobploens/pen/pbJPYr).
+
 ## Installation and Usage
 
 1. [Clone](https://github.com/jakobploens/Conway-s-Game-of-Life.git) or [download](https://github.com/jakobploens/Conway-s-Game-of-Life/archive/master.zip)  this repository.
